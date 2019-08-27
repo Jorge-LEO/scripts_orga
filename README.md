@@ -1,1 +1,2 @@
-# scripts_orga
+# 
+este repositorio tiene los scripts o ejercicios marcados en clase.
