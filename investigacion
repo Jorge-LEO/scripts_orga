@@ -1,0 +1,32 @@
+Un circuito es una red eléctrica (interconexión de dos o más componentes, tales como resistencias, inductores, condensadores, 
+fuentes, interruptores y semiconductores) que contiene al menos una trayectoria cerrada. 
+Los circuitos que contienen solo fuentes, componentes lineales (resistores, condensadores, inductores), 
+y elementos de distribución lineales (líneas de transmisión o cables) pueden analizarse por métodos algebraicos
+para determinar su comportamiento en corriente directa o en corriente alterna. 
+Un circuito que tiene componentes electrónicos es denominado un circuito electrónico. 
+Estas redes son generalmente no lineales y requieren diseños y herramientas de análisis mucho más complejos.
+
+Los circuitos eléctricos se clasifican de la siguiente forma:
+
+Por el tipo de señal:
+De corriente continua
+De corriente alterna
+Mixtos
+
+Por el tipo de régimen:
+
+Periódico
+Transitorio
+Permanente
+
+Por el tipo de componentes:
+
+Eléctricos: Resistivos, inductivos, capacitivos y mixtos
+Electrónicos: digitales, analógicos y mixtos
+
+Por su configuración:
+
+Serie
+Paralelo
+Mixto
+.
