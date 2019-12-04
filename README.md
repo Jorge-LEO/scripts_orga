@@ -1,2 +1,2 @@
-# 
-este repositorio tiene los scripts o ejercicios marcados en clase.
+# scripts-of-c
+este archivo son los scripts de dashboard
